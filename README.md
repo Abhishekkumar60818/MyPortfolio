@@ -12,6 +12,7 @@ Contributing
 License
 Demo
 You can see a live demo of this portfolio website at https://github.com/Abhishekkumar60818/MyPortfolio.git  Explore the website to get a feel for its design and functionality.
+HOME PAGE:-
 
 ![Screenshot (386)](https://github.com/Abhishekkumar60818/MyPortfolio/assets/95571253/bd480cef-ffdc-4d0f-879c-ee14c8c26ac3)
 Features
